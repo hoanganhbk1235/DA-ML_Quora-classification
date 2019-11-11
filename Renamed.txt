@@ -1,0 +1,19 @@
+1. Requiment: 
+    + numpy 1.0.6
+    + pandas
+    + pickle
+    + keras 2.0.6
+    + sklearn 0.19.1
+   
+   
+2. Make
+>>> from Quora_Insincere_Questions_Classification.quora_classification import predict_text
+
+>>> predict_text(text_requiment)
+
+eg: text_requiment = 'i am a student'
+
+
+3. Data
+https://www.kaggle.com/c/quora-insincere-questions-classification/data
+    
